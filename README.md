@@ -73,16 +73,6 @@ An **ex situ pre-reduction at 270 °C** under hydrogen — performed before cont
 2. Boccuzzi, F. et al. (1997). *J. Catal.*, 165, 129–140 — FTIR characterization of Cu/TiO₂ catalysts
 3. Boccuzzi, F. et al. (1999). *J. Catal.*, 184, 316 — TEM and FTIR characterization of Cu/SiO₂
 
-## 👥 Team Members
-
-| Name |
-|---|
-| Boggarapu Harshith |
-| Arkadip Ghara |
-| Om Prakash Meghwal |
-| Tanmay Kumar |
-| Ayush Raj |
-
 ---
 
 *Developed for KINEXUS'25 Inter IIT NIT Hackathon in collaboration with Godrej Industries*
