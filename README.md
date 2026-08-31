@@ -1,4 +1,4 @@
-# KINEXUS'25 Hackathon — Cost-Effective Alternative Catalysts for Industrial Hydrogenation
+# KINEXUS'25 Hackathon - Cost-Effective Alternative Catalysts for Industrial Hydrogenation
 
 [![Hackathon](https://img.shields.io/badge/KINEXUS'25-Inter_IIT_NIT_Hackathon-blue)]()
 [![Collaboration](https://img.shields.io/badge/Industry_Partner-Godrej_Industries-green)]()
