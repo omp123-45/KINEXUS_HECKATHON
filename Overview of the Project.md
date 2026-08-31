@@ -169,16 +169,3 @@ This project is grounded in:
 3. Industrial benchmarking against commercial Nickel catalysts (Calsicat™ E472D, 22 wt.% Ni)
 
 ---
-
-## Team
-
-**Group Name:** Smooth Operators
-**Unique ID:** A2D4F8F8
-
-| Member |
-|---|
-| Boggarapu Harshith |
-| Arkadip Ghara |
-| Om Prakash Meghwal |
-| Tanmay Kumar |
-| Ayush Raj |
